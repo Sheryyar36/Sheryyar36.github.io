@@ -22,11 +22,8 @@ color: #4d2018; font: 1.5em Gabriola;">
             </tr>
         </table>
         <hr>
-        <hr>       
-        <table cellspacing="30">
-            <tr>
-                <td style="background-color: rgba(226, 202, 167, 0.7); box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8)">
-                    <table cellspacing="20">
+        <hr> 
+        <table cellspacing="20" style="background-color: rgba(226, 202, 167, 0.7); box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8)">
                         <tr>
                             <td>
                                 <h2>Education:</h2>
@@ -126,26 +123,6 @@ color: #4d2018; font: 1.5em Gabriola;">
                                 </table>
                             </td>    
                         </tr>
-                    </table>
-                </td>
-                <td style="background-color: rgba(226, 202, 167, 0.7); box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8)">
-                    <center><h3>CONTACT ME:</h3></center>
-                    <br>
-                    <form action="mailto:sheryyar36@gmail.com" method="post" enctype="text/plain" name="Contact Form">
-                        <label for="name">Your Name:</label><input type="text" name="name" value="Name">
-                        <br>
-                        <label for="email">Your Email:</label><input type="email" name="email" value="Email">
-                        <br>
-                        <br>
-                        <label for="message">Your Message:</label>
-                        <br>
-                        <textarea name="message" value="contact's message" rows="20" cols="90"></textarea>
-                        <br>
-                        <br>
-                        <center><input type="submit" name="submit" value="Send"></center>
-                    </form>
-                </td>
-            </tr>
         </table>
     </center>
     </main>
