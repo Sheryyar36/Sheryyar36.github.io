@@ -34,7 +34,6 @@ color: #4d2018; font: 1.5em Gabriola;">
                                         <li>Full Stack Java Developer: Per Scholas</li>
                                     </ul>
                             </td>
-                        </tr>
                         <tr>
                             <td>
                                 <h2>Work Experience:</h2>
