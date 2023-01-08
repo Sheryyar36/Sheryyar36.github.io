@@ -139,6 +139,8 @@
                                         <br>
                                         <br>
                                         <center><input type="submit" name="submit" value="Send"></center>
+                                        <br>
+                                        <br>
                                     </form>
                                 </td>
                             </tr>
