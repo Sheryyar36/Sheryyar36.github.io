@@ -9,7 +9,7 @@
     <body style="background-color: #b7bcb9; background: linear-gradient(to bottom right, #b7bcb9, #585863 100%);
     color: #4d2018; font: 1.5em Gabriola;">
         <main><center>
-            <table cellspacing="40">
+            <table cellspacing="40"  box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8)>
                 <tr>
                     <td>
                         <img src="../personalSite/Images/Sheheryar's Professional Photo-modified.png" alt="A handsome photo of Sheheryar Saeed" style="border-style: outset;">
@@ -124,7 +124,7 @@
                                 </td>    
                             </tr>
                             <tr>
-                                <td style="background-color: rgba(226, 202, 167, 0.7); box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8)">
+                                <td style="background-color: rgba(226, 202, 167, 0.7);">
                                     <center><h3>CONTACT ME:</h3></center>
                                     <br>
                                     <form action="mailto:sheryyar36@gmail.com" method="post" enctype="text/plain" name="Contact Form">
