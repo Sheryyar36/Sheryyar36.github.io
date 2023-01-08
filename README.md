@@ -24,6 +24,7 @@
             <hr>
             <hr> 
             <table cellspacing="20" style="background-color: rgba(226, 202, 167, 0.7); box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8)">
+                        <center>    
                             <tr>
                                 <td>
                                     <h2>Education:</h2>
@@ -141,6 +142,7 @@
                                     </form>
                                 </td>
                             </tr>
+                        </center>
             </table>
         </center>
         </main>
